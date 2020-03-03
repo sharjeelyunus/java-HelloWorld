@@ -1,2 +1,2 @@
 # java-HelloWorld
-Hello World Java code.
+It's a Java Language Hello World code.
